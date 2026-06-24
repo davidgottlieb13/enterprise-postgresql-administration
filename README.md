@@ -45,7 +45,7 @@ Features include:
 
 ## Architecture
 
-[Architecture Diagram]
+![Project Architecture](docs/02-architecture/Project_Architecture.png)
 
 ---
 
