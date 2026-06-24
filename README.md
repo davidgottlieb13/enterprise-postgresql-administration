@@ -108,6 +108,7 @@ Design and deploy a secure, resilient, monitored, and manageable PostgreSQL infr
 
 ## Repository Structure
 
+```bash
 enterprise-postgresql-administration-lab/
 ├── ansible
 │   ├── inventory.ini
@@ -169,6 +170,7 @@ enterprise-postgresql-administration-lab/
     │   └── check_replication.sh
     └── reporting
         └── daily_report.sh
+```
 
 ---
 
